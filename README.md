@@ -26,8 +26,51 @@
 - **Visual Studio Code**: Asegúrate de tener instalada la última versión de VS Code.
 - **Node.js y npm**: Necesarios para gestionar las dependencias y construir la extensión.
 - **Repositorio de GitHub**: Para probar la extensión, asegúrate de tener un repositorio de GitHub al que puedas acceder.
+- **TypeScript**: La extensión está desarrollada utilizando TypeScript para asegurar un código robusto y escalable.
 
 ## Instalación
+
+1. Clona este repositorio en tu máquina local.
+2. Navega a la carpeta del proyecto en tu terminal.
+3. Ejecuta el comando `npm install` para instalar las dependencias necesarias.
+4. Abre Visual Studio Code y carga el proyecto.
+5. Presiona `F5` para compilar y ejecutar la extensión en el entorno de prueba de VS Code.
+
+## Uso
+
+1. Abre un archivo de código dentro de un repositorio de GitHub en Visual Studio Code.
+2. La extensión comenzará a funcionar automáticamente, mostrando los autores de cada línea de código.
+3. Utiliza la configuración personalizada para ajustar la apariencia de las anotaciones según tus preferencias.
+
+## Ejemplo
+
+![Ejemplo de GitHub Marker en acción](link-a-tu-imagen.png)
+
+## Contribuciones
+
+Las contribuciones son bienvenidas. Si deseas colaborar, sigue estos pasos:
+
+1. Haz un fork del repositorio.
+2. Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`).
+3. Realiza tus cambios y haz commit (`git commit -m 'Añadir nueva funcionalidad'`).
+4. Envía un pull request.
+
+## Licencia
+
+Este proyecto está licenciado bajo la **MIT License**. Para más detalles, consulta el archivo [LICENSE](LICENSE).
+
+## Reconocimientos
+
+Agradecimientos a todos los contribuyentes y a la comunidad de desarrollo que inspira y apoya este proyecto.
+
+## Contacto
+
+Para cualquier pregunta o sugerencia, no dudes en contactarme:
+
+- **Nombre**: Juan José
+- **Email**: tu-email@example.com
+- **GitHub**: [tu-usuario-github](https://github.com/tu-usuario-github)
+
 
 Para instalar y configurar la extensión, sigue estos pasos:
 
